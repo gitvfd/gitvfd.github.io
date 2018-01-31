@@ -1,0 +1,9 @@
+---
+pages:
+- _posts/2018-01-31-hello-world.md
+hide_body: false
+fields:
+- type: text
+  name: test
+  label: test
+  description: hjksdq:lshkgjvdbsqlmhjksdqh
